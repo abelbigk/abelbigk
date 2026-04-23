@@ -1,46 +1,74 @@
-💻 Full-Stack Web, App & Software Developer | CPP Certified | IT Degree
+👨‍💻 Abel — Full-Stack Developer
+💻 Full-Stack Web, Mobile & Software Developer
+🎓 IT Graduate | 🏅 CPP Certified
 
-I build high-performance websites, mobile applications, and scalable software designed to solve complex business problems. With a strong background in IT, I focus on delivering clean, maintainable code and a seamless user experience across all platforms.
+I build high-performance, scalable, and user-focused applications — from modern web platforms to mobile apps and backend systems. My goal is simple: solve real problems with clean, efficient code.
 
-My Technical Expertise:
+🚀 About Me
+I’m a developer with a strong foundation in software engineering, system design, and full-stack development. I focus on creating solutions that are:
 
-Web Development: I specialize in building fast, SEO-optimized websites using Next.js, React, and TypeScript. I use Tailwind CSS for modern, responsive designs that look great on any device.
+⚡ Fast & optimized
+🔒 Secure & scalable
+🧩 Maintainable & clean
+📱 Responsive across all devices
 
-Android & Mobile Apps: I develop functional mobile applications, including experience with Android Studio, Capacitor, and Java. I have handled the full lifecycle of mobile development, from creating APKs to integrating Google AdMob for monetization and preparing apps for the Google Play Store.
+🛠️ Tech Stack
+🌐 Web Development
+Frontend: React, Next.js, TypeScript
+Styling: Tailwind CSS
+Core: HTML5, CSS3, JavaScript (ES6+)
 
-Software & Backend: I architect robust backend systems using Node.js, Express, and Python (Flask). I am highly skilled in SQL and 3NF database normalization, ensuring data integrity for complex platforms like e-commerce and AI-integrated tools.
+📱 Mobile Development
+Android Studio, Java
+Capacitor
+APK generation & Play Store deployment
+Google AdMob integration
 
-Featured Projects:
-OnlyBrand E-Commerce: Developed the full-stack architecture, focusing on secure checkout logic and efficient database schemas.
-Fitness & Exercise Mobile App: Currently developing a personalized mobile solution focusing on user engagement and performance tracking.
-.
-I am a highly skilled developer with a strong foundation in C++ (Certified Professional Programmer) and proven expertise across multiple programming languages and frameworks. With a passion for problem-solving and building efficient solutions, I deliver high-quality applications tailored to client needs.
+⚙️ Backend & Software
+Node.js, Express
+Python (Flask)
+RESTful API Development
+Authentication & Secure Systems
 
-🔹 Core Competencies
-Programming Languages: C++, Java, Python, PHP, JavaScript (ES6+), Kotlin.
+🗄️ Database
+MySQL, SQLite, MongoDB
 
-Web Development: React, Node.js/Server.js, HTML/HTML5, CSS.
+☁️ Cloud & Deployment
+AWS (CloudFront)
+Scalable deployments
+Performance optimization
 
-Backend & APIs: RESTful API development, secure server-side logic, database integration.
+🧠 Core CS Skills
+Data Structures & Algorithms
+Object-Oriented Programming (OOP)
+System Design
 
-Cloud & Deployment: AWS CloudFront, scalable cloud-based solutions, performance optimization.
+📌 Featured Projects
+🛒 E-Commerce
+Full-stack architecture (React + Node.js + MySQL)
 
-Software Engineering: Data structures, algorithms, OOP, and system design.
+Secure checkout & payment integration
+Optimized database schema & product management
 
-Frameworks: React , Node.js and Server.js
+🏋️ Fitness & Exercise Mobile App (Ongoing)
+Personalized user experience
+Performance tracking system
+Focus on engagement & usability
 
-🔹 What I Offer
-✔️ Full-stack web application development (frontend + backend).
-✔️ High-performance desktop and server-side applications.
-✔️ Custom API design and integration.
-✔️ Scalable, secure cloud deployments with AWS.
-✔️ Clean, maintainable, and well-documented code.
+💡 What I Offer
+✔️ Full-stack web application development
+✔️ Mobile app development (Android & hybrid)
+✔️ Custom backend systems & APIs
+✔️ Scalable cloud-based solutions
+✔️ Clean, well-documented, production-ready code
 
-🔹 Why Work With Me?
-Certified & Skilled: CPP certification + expertise across modern languages and tools.
+🎯 Why Work With Me?
+🏅 Certified & Skilled – CPP certification + modern tech expertise
+🤝 Client-Focused – Clear communication & reliable delivery
+🔄 Versatile – From C++ systems to modern React apps
+🚀 Problem Solver – I build solutions, not just code
 
-Client-Focused: I prioritize clear communication, on-time delivery, and scalable solutions.
-
-Versatile: From optimizing C++ applications to building modern React web apps, I adapt to different project requirements.
-
-- Whether you need a robust web platform, optimized backend, or reliable software system, I can bring your ideas to life with precision and efficiency.
+📫 Let’s Connect
+If you’re building something exciting or need a reliable developer:
+💬 Open to collaboration
+🚀 Ready to bring your ideas to life
