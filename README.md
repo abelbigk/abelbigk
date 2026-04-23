@@ -64,11 +64,4 @@ Focus on engagement & usability
 
 🎯 Why Work With Me?
 🏅 Certified & Skilled – CPP certification + modern tech expertise
-🤝 Client-Focused – Clear communication & reliable delivery
-🔄 Versatile – From C++ systems to modern React apps
-🚀 Problem Solver – I build solutions, not just code
-
-📫 Let’s Connect
-If you’re building something exciting or need a reliable developer:
-💬 Open to collaboration
 🚀 Ready to bring your ideas to life
