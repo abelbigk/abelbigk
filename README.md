@@ -1,5 +1,7 @@
 👨‍💻 Abel — Full-Stack Developer
+
 💻 Full-Stack Web, Mobile & Software Developer
+
 🎓 IT Graduate | 🏅 CPP Certified
 
 I build high-performance, scalable, and user-focused applications — from modern web platforms to mobile apps and backend systems. My goal is simple: solve real problems with clean, efficient code.
