@@ -1,6 +1,4 @@
-👨‍💻 Abel — Full-Stack Developer
-
-💻 Full-Stack Web, Mobile & Software Developer
+👨‍💻 Abel —💻 Full-Stack Web, Mobile App & Software Developer
 
 🎓 IT Graduate | 🏅 CPP Certified
 
