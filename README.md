@@ -28,7 +28,7 @@ Core: HTML5, CSS3, JavaScript (ES6+)
 
 📱 Mobile Development
 
-Android Studio, Java
+Kotlin, Java
 
 Capacitor
 
