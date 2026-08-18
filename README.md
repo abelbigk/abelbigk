@@ -1,4 +1,5 @@
 👨‍💻 Abel —💻 Full-Stack Web, Mobile App & Software Developer
+www.linkedin.com/in/abel-bogale-585572406 -- LINKEDIN PROFILE
 
 🎓 IT Graduate | 🏅 CPP Certified
 
